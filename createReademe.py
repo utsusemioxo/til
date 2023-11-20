@@ -52,7 +52,7 @@ it from others.
 
 ## License
 
-&copy; 2017-2018 Jim Anderson
+&copy; 2017-2018 Du Ling
 
 
 This repository is licensed under the MIT license. See `LICENSE` for
