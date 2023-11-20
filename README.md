@@ -9,20 +9,20 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_0 TILs and counting..._
+_1 TILs and counting..._
 
 
 ---
 
 ### Categories
+
 * [Cpp](#cpp)
 
 ---
+
 ### Cpp
 
-- [condition variable](cpp/condition_variable.md)
-
-
+- [None](cpp/condition_variable.md)
 
 ## Usage
 
@@ -52,7 +52,7 @@ it from others.
 
 ## License
 
-&copy; 2017-2018 Jim Anderson
+&copy; 2017-2018 Du Ling
 
 
 This repository is licensed under the MIT license. See `LICENSE` for
