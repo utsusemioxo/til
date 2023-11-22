@@ -9,7 +9,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_1 TILs and counting..._
+_3 TILs and counting..._
 
 
 ---
@@ -17,12 +17,18 @@ _1 TILs and counting..._
 ### Categories
 
 * [Cpp](#cpp)
+* [Dynamic_programming](#dynamic_programming)
 
 ---
 
 ### Cpp
 
-- [None](cpp/condition_variable.md)
+- [condition variable](cpp/condition_variable.md)
+- [thread pool](cpp/thread_pool.md)
+
+### Dynamic_programming
+
+- [minimum path cost in a grid](dynamic_programming/minimum_path_cost_in_a_grid.md)
 
 ## Usage
 
