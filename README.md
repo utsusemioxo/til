@@ -17,7 +17,7 @@ _3 TILs and counting..._
 ### Categories
 
 * [Cpp](#cpp)
-* [Dynamic_programming](#dynamic_programming)
+* [Dynamic programming](#dynamic_programming)
 
 ---
 
