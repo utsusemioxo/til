@@ -9,7 +9,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_3 TILs and counting..._
+_4 TILs and counting..._
 
 
 ---
@@ -17,13 +17,14 @@ _3 TILs and counting..._
 ### Categories
 
 * [Cpp](#cpp)
-* [Dynamic programming](#dynamic_programming)
+* [Dynamic_programming](#dynamic_programming)
 
 ---
 
 ### Cpp
 
 - [condition variable](cpp/condition_variable.md)
+- [linux C/C++ Study route](cpp/linux_c_cpp_study_route.md)
 - [thread pool](cpp/thread_pool.md)
 
 ### Dynamic_programming
