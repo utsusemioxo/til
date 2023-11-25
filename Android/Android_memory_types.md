@@ -1,4 +1,4 @@
-# Android memory types
+# Android memory types[<sup>1</sup>](#refer-anchor-1)
 
 ![Alt text](memory-types.svg)
 
@@ -30,3 +30,9 @@ Pages are considered either *free* or *used*. Used pages are RAM that the system
   - Dirty: Can be moved/compressed in zRAM by `kswapd` to increase free memory
 
 > Why these concepts importent? They are key to managing low-memory situations.
+
+-----
+## references
+<div id="refer-anchor-1"></div>
+
+- [1] [Memory allocation among processes](https://developer.android.com/topic/performance/memory-management)
