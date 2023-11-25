@@ -9,17 +9,23 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_4 TILs and counting..._
+_6 TILs and counting..._
 
 
 ---
 
 ### Categories
 
+* [Android](#Android)
 * [Cpp](#cpp)
 * [Dynamic_programming](#dynamic_programming)
 
 ---
+
+### Android
+
+- [Android memory types](Android/Android_memory_types.md)
+- [Virtual memory and Physical memory on android](Android/Virtual_Phical_memory.md)
 
 ### Cpp
 
