@@ -9,7 +9,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_6 TILs and counting..._
+_8 TILs and counting..._
 
 
 ---
@@ -18,13 +18,15 @@ _6 TILs and counting..._
 
 * [Android](#Android)
 * [Cpp](#cpp)
+* [Data_structure](#data_structure)
+* [Design_pattern](#design_pattern)
 * [Dynamic_programming](#dynamic_programming)
 
 ---
 
 ### Android
 
-- [Android memory types](Android/Android_memory_types.md)
+- [Android memory types[<sup>1</sup>](#refer-anchor-1)](Android/Android_memory_types.md)
 - [Virtual memory and Physical memory on android](Android/Virtual_Phical_memory.md)
 
 ### Cpp
@@ -32,6 +34,14 @@ _6 TILs and counting..._
 - [condition variable](cpp/condition_variable.md)
 - [linux C/C++ Study route](cpp/linux_c_cpp_study_route.md)
 - [thread pool](cpp/thread_pool.md)
+
+### Data_structure
+
+
+### Design_pattern
+
+- [Template Method 模板方法](design_pattern/template_method.md)
+- [重构的关键技法](design_pattern/重构关键技巧.md)
 
 ### Dynamic_programming
 
