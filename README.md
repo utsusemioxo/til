@@ -26,7 +26,7 @@ _8 TILs and counting..._
 
 ### Android
 
-- [Android memory types[<sup>1</sup>](#refer-anchor-1)](Android/Android_memory_types.md)
+- [Android memory types](Android/Android_memory_types.md)
 - [Virtual memory and Physical memory on android](Android/Virtual_Phical_memory.md)
 
 ### Cpp

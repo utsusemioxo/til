@@ -1,4 +1,6 @@
-# Android memory types[<sup>1</sup>](#refer-anchor-1)
+# Android memory types
+
+Android 内存分配相关知识总结 [<sup>1</sup>](#refer-anchor-1)
 
 ![Alt text](memory-types.svg)
 
