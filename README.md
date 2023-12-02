@@ -9,7 +9,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_8 TILs and counting..._
+_10 TILs and counting..._
 
 
 ---
@@ -31,6 +31,7 @@ _8 TILs and counting..._
 
 ### Cpp
 
+- [ABI Knowledge](cpp/abi_knowledge.md)
 - [condition variable](cpp/condition_variable.md)
 - [linux C/C++ Study route](cpp/linux_c_cpp_study_route.md)
 - [thread pool](cpp/thread_pool.md)
@@ -40,6 +41,7 @@ _8 TILs and counting..._
 
 ### Design_pattern
 
+- [Stragegy](design_pattern/strategy.md)
 - [Template Method 模板方法](design_pattern/template_method.md)
 - [重构的关键技法](design_pattern/重构关键技巧.md)
 
