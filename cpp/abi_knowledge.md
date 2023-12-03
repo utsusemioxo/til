@@ -1,6 +1,6 @@
 # ABI Knowledge
 
-## Cpp Reference I.26
+## Reference to Cpp Core Guidelines I.26
 >I.26: If you want a cross-compiler ABI, use a C-style subset
 
 **Reason** Different compilers implement different binary layouts for classes, 
