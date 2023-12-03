@@ -19,27 +19,27 @@ Some things that are included in the discussion of ABI:
 - Return type is not part of function signature.
 
 - Return type is not part of the name mangling[<sup>1</sup>](#refer-anchor-1), so if the header doesn't match the binary, things can go very wrong
-    ![Alt text](image.png)
+    ![Alt text](./abi_knowledge_image/image-1.png)
 
-    ![Alt text](image-2.png)
+    ![Alt text](./abi_knowledge_image/image-2.png)
 
 ## Changing the order of virtual functions
 
 
 - If you change the order of virtual functions in the header file, the compiler will call the wrong one.
 
-    ![Alt text](image-3.png)
+    ![Alt text](./abi_knowledge_image/image-3.png)
 
-    ![Alt text](image-4.png)
+    ![Alt text](./abi_knowledge_image/image-4.png)
 
 ## Changing the Order of Member Variables
 - Just like the virtual function order, the compiler would generate the wrong offset.
-    ![Alt text](image-5.png)
+    ![Alt text](./abi_knowledge_image/image-5.png)
 
-    ![Alt text](image-6.png)
+    ![Alt text](./abi_knowledge_image/image-6.png)
 - Program needs to be recompiled, by adding the object at the end of your struct, 
 it becomes undefined behavior to compiler.
-    ![Alt text](image-7.png)
+    ![Alt text](./abi_knowledge_image/image-7.png)
 
 ## references
 <div id="refer-anchor-1"></div>
